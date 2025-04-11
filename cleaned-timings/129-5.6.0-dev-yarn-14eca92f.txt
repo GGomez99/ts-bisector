@@ -1,0 +1,69 @@
+Commit: 14eca92fd77b101454c03181f084a8ecb9be8b76
+TypeScript Version: 5.6.0-dev
+yarn nodeLinker: default
+Build Time: 707.63s
+typecheck:packages Time: 68.26s
+
+
+Files:                         57675
+Lines of Library:              41147
+Lines of Definitions:        1798435
+Lines of TypeScript:         2978670
+Lines of JavaScript:           60320
+Lines of JSON:                 64330
+Lines of Other:                    0
+Identifiers:                 5258841
+Symbols:                    12588943
+Types:                       4676137
+Instantiations:             22952327
+Memory used:               15663687K
+Assignability cache size:    2834121
+Identity cache size:          318990
+Subtype cache size:           304714
+Strict subtype cache size:   1072546
+I/O Read time:                10.01s
+Parse time:                    9.01s
+ResolveModule time:           28.26s
+ResolveTypeReference time:     0.54s
+ResolveLibrary time:           0.01s
+Program time:                 54.14s
+Bind time:                     5.76s
+Check time:                  240.44s
+transformTime time:          208.66s
+I/O Write time:                0.01s
+printTime time:                1.21s
+Emit time:                     1.21s
+Total time:                  301.56s
+Projects in scope:                        4990
+Projects built:                              1
+Aggregate Files:                         57675
+Aggregate Lines of Library:              41147
+Aggregate Lines of Definitions:        1798435
+Aggregate Lines of TypeScript:         2978670
+Aggregate Lines of JavaScript:           60320
+Aggregate Lines of JSON:                 64330
+Aggregate Lines of Other:                    0
+Aggregate Identifiers:                 5258841
+Aggregate Symbols:                    12588943
+Aggregate Types:                       4676137
+Aggregate Instantiations:             22952327
+Aggregate Memory used:               15663687K
+Aggregate Assignability cache size:    2834121
+Aggregate Identity cache size:          318990
+Aggregate Subtype cache size:           304714
+Aggregate Strict subtype cache size:   1072546
+Aggregate I/O Read time:                10.01s
+Aggregate Parse time:                    9.01s
+Aggregate ResolveModule time:           28.26s
+Aggregate ResolveTypeReference time:     0.54s
+Aggregate ResolveLibrary time:           0.01s
+Aggregate Program time:                 54.14s
+Aggregate Bind time:                     5.76s
+Aggregate Check time:                  240.44s
+Aggregate transformTime time:          208.66s
+Aggregate I/O Write time:                0.01s
+Aggregate printTime time:                1.21s
+Aggregate Emit time:                     1.21s
+Config file parsing time:                9.24s
+Up-to-date check time:                  26.22s
+Build time:                            707.63s

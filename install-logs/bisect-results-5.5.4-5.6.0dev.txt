@@ -1,0 +1,10 @@
+timestamp,commit,ts_version,result
+[4/7/2025, 4:46:34 PM],5a4134470128a062a8297f404dfb3321f8f55798,5.5.0-dev,success
+[4/7/2025, 4:47:03 PM],61ffce078b01cca3f482809ac750df9945e88a3a,unknown,failure
+[4/7/2025, 4:47:32 PM],359646b48bcce4990c0fd4c3e95378f41812bd0f,unknown,failure
+[4/7/2025, 4:48:01 PM],506f3e26c3c8af7e4de38996656c947050e68567,unknown,failure
+[4/7/2025, 4:48:30 PM],145b106c20bc5e6008bcbe93027f14a84eda614d,unknown,failure
+[4/7/2025, 4:48:59 PM],5041ab992f527d7f9d82d892f04c040c1d162a02,unknown,failure
+[4/7/2025, 4:49:31 PM],c325b103d0b173cca898f4d0db75025a09fc3ee9,5.5.0-dev,success
+
+Breaking change introduced in commit: 5041ab992f527d7f9d82d892f04c040c1d162a02

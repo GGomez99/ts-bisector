@@ -1,0 +1,395 @@
+v5.8.2 - base
+
+Files:                         57721
+Lines of Library:              43159
+Lines of Definitions:        1801569
+Lines of TypeScript:         2979459
+Lines of JavaScript:           59776
+Lines of JSON:                 64330
+Lines of Other:                    0
+Identifiers:                 5263938
+Symbols:                    12647908
+Types:                       4715305
+Instantiations:             22938428
+Memory used:               14907907K
+Assignability cache size:    2826147
+Identity cache size:          314897
+Subtype cache size:           307218
+Strict subtype cache size:   1081519
+I/O Read time:                10.21s
+Parse time:                   10.48s
+ResolveModule time:           26.80s
+ResolveTypeReference time:     0.54s
+ResolveLibrary time:           0.01s
+Program time:                 54.37s
+Bind time:                     5.89s
+transformTime time:          197.35s
+commentTime time:              0.01s
+printTime time:                3.05s
+Emit time:                     3.05s
+Check time:                  221.15s
+I/O Write time:                0.01s
+Total time:                  284.46s
+Projects in scope:                        4978
+Projects built:                              1
+Aggregate Files:                         57721
+Aggregate Lines of Library:              43159
+Aggregate Lines of Definitions:        1801569
+Aggregate Lines of TypeScript:         2979459
+Aggregate Lines of JavaScript:           59776
+Aggregate Lines of JSON:                 64330
+Aggregate Lines of Other:                    0
+Aggregate Identifiers:                 5263938
+Aggregate Symbols:                    12647908
+Aggregate Types:                       4715305
+Aggregate Instantiations:             22938428
+Aggregate Memory used:               14907907K
+Aggregate Assignability cache size:    2826147
+Aggregate Identity cache size:          314897
+Aggregate Subtype cache size:           307218
+Aggregate Strict subtype cache size:   1081519
+Aggregate I/O Read time:                10.21s
+Aggregate Parse time:                   10.48s
+Aggregate ResolveModule time:           26.80s
+Aggregate ResolveTypeReference time:     0.54s
+Aggregate ResolveLibrary time:           0.01s
+Aggregate Program time:                 54.37s
+Aggregate Bind time:                     5.89s
+Aggregate transformTime time:          197.35s
+Aggregate commentTime time:              0.01s
+Aggregate printTime time:                3.05s
+Aggregate Emit time:                     3.05s
+Aggregate Check time:                  221.15s
+Aggregate I/O Write time:                0.01s
+Config file parsing time:                8.16s
+Up-to-date check time:                  30.82s
+Build time:                            686.88s
+
+v5.8.2 - tgz
+
+Files:                         57717
+Lines of Library:              43159
+Lines of Definitions:        1802156
+Lines of TypeScript:         2978650
+Lines of JavaScript:           59867
+Lines of JSON:                 64331
+Lines of Other:                    0
+Identifiers:                 5263958
+Symbols:                    12656586
+Types:                       4720888
+Instantiations:             23032026
+Memory used:               14624458K
+Assignability cache size:    2856998
+Identity cache size:          317829
+Subtype cache size:           306520
+Strict subtype cache size:   1073590
+I/O Read time:                15.42s
+Parse time:                   11.58s
+ResolveModule time:           38.84s
+ResolveTypeReference time:     2.07s
+ResolveLibrary time:           0.01s
+Program time:                 76.47s
+Bind time:                     6.63s
+transformTime time:          232.99s
+commentTime time:              0.78s
+printTime time:              242.28s
+Emit time:                   242.63s
+Check time:                  223.25s
+I/O Write time:                0.01s
+Total time:                  548.98s
+
+Projects in scope:                        4990
+Projects built:                              1
+Aggregate Files:                         57717
+Aggregate Lines of Library:              43159
+Aggregate Lines of Definitions:        1802156
+Aggregate Lines of TypeScript:         2978650
+Aggregate Lines of JavaScript:           59867
+Aggregate Lines of JSON:                 64331
+Aggregate Lines of Other:                    0
+Aggregate Identifiers:                 5263958
+Aggregate Symbols:                    12656586
+Aggregate Types:                       4720888
+Aggregate Instantiations:             23032026
+Aggregate Memory used:               14624458K
+Aggregate Assignability cache size:    2856998
+Aggregate Identity cache size:          317829
+Aggregate Subtype cache size:           306520
+Aggregate Strict subtype cache size:   1073590
+Aggregate I/O Read time:                15.42s
+Aggregate Parse time:                   11.58s
+Aggregate ResolveModule time:           38.84s
+Aggregate ResolveTypeReference time:     2.07s
+Aggregate ResolveLibrary time:           0.01s
+Aggregate Program time:                 76.47s
+Aggregate Bind time:                     6.63s
+Aggregate transformTime time:          232.99s
+Aggregate commentTime time:              0.78s
+Aggregate printTime time:              242.28s
+Aggregate Emit time:                   242.63s
+Aggregate Check time:                  223.25s
+Aggregate I/O Write time:                0.01s
+Config file parsing time:                9.18s
+Up-to-date check time:                  35.53s
+Build time:                            601.60s
+
+
+e370c867c066f2e84ae617041704a67e2491d4e4 - 5.6.0-dev
+With node-modules nodeLinker
+
+Files:                         57268
+Lines of Library:              41147
+Lines of Definitions:        1844977
+Lines of TypeScript:         2971374
+Lines of JavaScript:           60814
+Lines of JSON:                 64331
+Lines of Other:                    0
+Identifiers:                 5301205
+Symbols:                    12633681
+Types:                       4680672
+Instantiations:             22905495
+Memory used:               16565439K
+Assignability cache size:    2841563
+Identity cache size:          316429
+Subtype cache size:           303001
+Strict subtype cache size:   1072489
+I/O Read time:                10.52s
+Parse time:                    9.96s
+ResolveModule time:           27.74s
+ResolveTypeReference time:     0.04s
+ResolveLibrary time:           0.01s
+Program time:                 55.72s
+Bind time:                     6.00s
+Check time:                  236.23s
+I/O Write time:                0.01s
+printTime time:                1.42s
+Emit time:                     1.42s
+Total time:                  299.37s
+Projects in scope:                        4990
+Projects built:                              1
+Aggregate Files:                         57268
+Aggregate Lines of Library:              41147
+Aggregate Lines of Definitions:        1844977
+Aggregate Lines of TypeScript:         2971374
+Aggregate Lines of JavaScript:           60814
+Aggregate Lines of JSON:                 64331
+Aggregate Lines of Other:                    0
+Aggregate Identifiers:                 5301205
+Aggregate Symbols:                    12633681
+Aggregate Types:                       4680672
+Aggregate Instantiations:             22905495
+Aggregate Memory used:               16565439K
+Aggregate Assignability cache size:    2841563
+Aggregate Identity cache size:          316429
+Aggregate Subtype cache size:           303001
+Aggregate Strict subtype cache size:   1072489
+Aggregate I/O Read time:                10.52s
+Aggregate Parse time:                    9.96s
+Aggregate ResolveModule time:           27.74s
+Aggregate ResolveTypeReference time:     0.04s
+Aggregate ResolveLibrary time:           0.01s
+Aggregate Program time:                 55.72s
+Aggregate Bind time:                     6.00s
+Aggregate Check time:                  236.23s
+Aggregate I/O Write time:                0.01s
+Aggregate printTime time:                1.42s
+Aggregate Emit time:                     1.42s
+Config file parsing time:                8.42s
+Up-to-date check time:                  21.50s
+Build time:                            335.72s
+
+a9139bfdfea154dfa9cc97f465c933ee02b3fcfa - 5.6.0-dev
+With node-modules nodeLinker
+
+Files:                         57272
+Lines of Library:              41147
+Lines of Definitions:        1845158
+Lines of TypeScript:         2971374
+Lines of JavaScript:           60814
+Lines of JSON:                 64331
+Lines of Other:                    0
+Identifiers:                 5301371
+Symbols:                    12638284
+Types:                       4683126
+Instantiations:             22998645
+Memory used:               17380112K
+Assignability cache size:    2842092
+Identity cache size:          316495
+Subtype cache size:           302998
+Strict subtype cache size:   1072458
+I/O Read time:                 9.91s
+Parse time:                   10.07s
+ResolveModule time:           29.01s
+ResolveTypeReference time:     0.03s
+ResolveLibrary time:           0.00s
+Program time:                 57.37s
+Bind time:                     6.29s
+Check time:                  247.76s
+transformTime time:          414.50s
+I/O Write time:                0.01s
+printTime time:                1.51s
+Emit time:                     1.51s
+Total time:                  312.94s
+Projects in scope:                        4990
+Projects built:                              1
+Aggregate Files:                         57272
+Aggregate Lines of Library:              41147
+Aggregate Lines of Definitions:        1845158
+Aggregate Lines of TypeScript:         2971374
+Aggregate Lines of JavaScript:           60814
+Aggregate Lines of JSON:                 64331
+Aggregate Lines of Other:                    0
+Aggregate Identifiers:                 5301371
+Aggregate Symbols:                    12638284
+Aggregate Types:                       4683126
+Aggregate Instantiations:             22998645
+Aggregate Memory used:               17380112K
+Aggregate Assignability cache size:    2842092
+Aggregate Identity cache size:          316495
+Aggregate Subtype cache size:           302998
+Aggregate Strict subtype cache size:   1072458
+Aggregate I/O Read time:                 9.91s
+Aggregate Parse time:                   10.07s
+Aggregate ResolveModule time:           29.01s
+Aggregate ResolveTypeReference time:     0.03s
+Aggregate ResolveLibrary time:           0.00s
+Aggregate Program time:                 57.37s
+Aggregate Bind time:                     6.29s
+Aggregate Check time:                  247.76s
+Aggregate transformTime time:          414.50s
+Aggregate I/O Write time:                0.01s
+Aggregate printTime time:                1.51s
+Aggregate Emit time:                     1.51s
+Config file parsing time:                9.39s
+Up-to-date check time:                  22.14s
+Build time:                            974.22s
+
+22bbe867fd4b86e2187270f6c284e6cfd92a3fea - 5.6.0-dev
+With node-modules nodeLinker
+
+Files:                         57268
+Lines of Library:              41147
+Lines of Definitions:        1844977
+Lines of TypeScript:         2971374
+Lines of JavaScript:           60814
+Lines of JSON:                 64331
+Lines of Other:                    0
+Identifiers:                 5301205
+Symbols:                    12638290
+Types:                       4683448
+Instantiations:             22935812
+Memory used:               18679428K
+Assignability cache size:    2842080
+Identity cache size:          316495
+Subtype cache size:           303001
+Strict subtype cache size:   1072490
+I/O Read time:                 9.86s
+Parse time:                    9.99s
+ResolveModule time:           28.14s
+ResolveTypeReference time:     0.03s
+ResolveLibrary time:           0.01s
+Program time:                 55.45s
+Bind time:                     6.18s
+Check time:                  231.22s
+transformTime time:          358.59s
+I/O Write time:                0.01s
+printTime time:                1.51s
+Emit time:                     1.51s
+Total time:                  294.35s
+Projects in scope:                        4990
+Projects built:                              1
+Aggregate Files:                         57268
+Aggregate Lines of Library:              41147
+Aggregate Lines of Definitions:        1844977
+Aggregate Lines of TypeScript:         2971374
+Aggregate Lines of JavaScript:           60814
+Aggregate Lines of JSON:                 64331
+Aggregate Lines of Other:                    0
+Aggregate Identifiers:                 5301205
+Aggregate Symbols:                    12638290
+Aggregate Types:                       4683448
+Aggregate Instantiations:             22935812
+Aggregate Memory used:               18679428K
+Aggregate Assignability cache size:    2842080
+Aggregate Identity cache size:          316495
+Aggregate Subtype cache size:           303001
+Aggregate Strict subtype cache size:   1072490
+Aggregate I/O Read time:                 9.86s
+Aggregate Parse time:                    9.99s
+Aggregate ResolveModule time:           28.14s
+Aggregate ResolveTypeReference time:     0.03s
+Aggregate ResolveLibrary time:           0.01s
+Aggregate Program time:                 55.45s
+Aggregate Bind time:                     6.18s
+Aggregate Check time:                  231.22s
+Aggregate transformTime time:          358.59s
+Aggregate I/O Write time:                0.01s
+Aggregate printTime time:                1.51s
+Aggregate Emit time:                     1.51s
+Config file parsing time:                9.22s
+Up-to-date check time:                  23.01s
+Build time:                            902.87s
+
+1b867c52b2a54cff51125bf915b5c8790334a376 - 5.6.0-dev
+With node-modules nodeLinker
+
+Files:                         57268
+Lines of Library:              41147
+Lines of Definitions:        1844977
+Lines of TypeScript:         2971374
+Lines of JavaScript:           60814
+Lines of JSON:                 64331
+Lines of Other:                    0
+Identifiers:                 5301205
+Symbols:                    12633681
+Types:                       4680672
+Instantiations:             22905495
+Memory used:               16058775K
+Assignability cache size:    2841563
+Identity cache size:          316429
+Subtype cache size:           303001
+Strict subtype cache size:   1072489
+I/O Read time:                10.60s
+Parse time:                   10.62s
+ResolveModule time:           29.22s
+ResolveTypeReference time:     0.07s
+ResolveLibrary time:           0.01s
+Program time:                 58.09s
+Bind time:                     6.58s
+Check time:                  247.71s
+I/O Write time:                0.01s
+printTime time:                1.41s
+Emit time:                     1.41s
+Total time:                  313.80s
+Projects in scope:                        4990
+Projects built:                              1
+Aggregate Files:                         57268
+Aggregate Lines of Library:              41147
+Aggregate Lines of Definitions:        1844977
+Aggregate Lines of TypeScript:         2971374
+Aggregate Lines of JavaScript:           60814
+Aggregate Lines of JSON:                 64331
+Aggregate Lines of Other:                    0
+Aggregate Identifiers:                 5301205
+Aggregate Symbols:                    12633681
+Aggregate Types:                       4680672
+Aggregate Instantiations:             22905495
+Aggregate Memory used:               16058775K
+Aggregate Assignability cache size:    2841563
+Aggregate Identity cache size:          316429
+Aggregate Subtype cache size:           303001
+Aggregate Strict subtype cache size:   1072489
+Aggregate I/O Read time:                10.60s
+Aggregate Parse time:                   10.62s
+Aggregate ResolveModule time:           29.22s
+Aggregate ResolveTypeReference time:     0.07s
+Aggregate ResolveLibrary time:           0.01s
+Aggregate Program time:                 58.09s
+Aggregate Bind time:                     6.58s
+Aggregate Check time:                  247.71s
+Aggregate I/O Write time:                0.01s
+Aggregate printTime time:                1.41s
+Aggregate Emit time:                     1.41s
+Config file parsing time:                8.49s
+Up-to-date check time:                  22.42s
+Build time:                            351.43s

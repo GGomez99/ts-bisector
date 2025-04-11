@@ -1,0 +1,71 @@
+Commit: f8a7913c1e67cc7262c49b144a90b9d577a16fef
+TypeScript Version: 5.6.0-dev
+yarn nodeLinker: default
+Build Time: 685.57s
+typecheck:packages Time: 67.71s
+
+
+Files:                         57675
+Lines of Library:              40634
+Lines of Definitions:        1798435
+Lines of TypeScript:         2978670
+Lines of JavaScript:           60276
+Lines of JSON:                 64330
+Lines of Other:                    0
+Identifiers:                 5258924
+Symbols:                    12589199
+Types:                       4676632
+Instantiations:             22953398
+Memory used:               15398998K
+Assignability cache size:    2834565
+Identity cache size:          318988
+Subtype cache size:           304749
+Strict subtype cache size:   1072995
+I/O Read time:                 9.49s
+Parse time:                    9.38s
+ResolveModule time:           25.71s
+ResolveTypeReference time:     0.53s
+ResolveLibrary time:           0.01s
+Program time:                 51.37s
+Bind time:                     6.79s
+transformTime time:          208.98s
+commentTime time:              0.68s
+printTime time:              210.25s
+Emit time:                   210.45s
+Check time:                  196.25s
+I/O Write time:                0.01s
+Total time:                  464.86s
+Projects in scope:                        4990
+Projects built:                              1
+Aggregate Files:                         57675
+Aggregate Lines of Library:              40634
+Aggregate Lines of Definitions:        1798435
+Aggregate Lines of TypeScript:         2978670
+Aggregate Lines of JavaScript:           60276
+Aggregate Lines of JSON:                 64330
+Aggregate Lines of Other:                    0
+Aggregate Identifiers:                 5258924
+Aggregate Symbols:                    12589199
+Aggregate Types:                       4676632
+Aggregate Instantiations:             22953398
+Aggregate Memory used:               15398998K
+Aggregate Assignability cache size:    2834565
+Aggregate Identity cache size:          318988
+Aggregate Subtype cache size:           304749
+Aggregate Strict subtype cache size:   1072995
+Aggregate I/O Read time:                 9.49s
+Aggregate Parse time:                    9.38s
+Aggregate ResolveModule time:           25.71s
+Aggregate ResolveTypeReference time:     0.53s
+Aggregate ResolveLibrary time:           0.01s
+Aggregate Program time:                 51.37s
+Aggregate Bind time:                     6.79s
+Aggregate transformTime time:          208.98s
+Aggregate commentTime time:              0.68s
+Aggregate printTime time:              210.25s
+Aggregate Emit time:                   210.45s
+Aggregate Check time:                  196.25s
+Aggregate I/O Write time:                0.01s
+Config file parsing time:               10.71s
+Up-to-date check time:                  26.43s
+Build time:                            685.57s
